@@ -22,8 +22,8 @@ function createComponents(idForOutput, arrayForProcess) {
 }
 
 // Arrray to sort through
-const itemArray = [
-  {
+// JSON thanks to www.json-generator.com
+const itemArray = [{
     "id": "5cafa9def658c7021e40a334",
     "name": "Summers Dejesus",
     "email": "summersdejesus@gluid.com",
@@ -382,13 +382,133 @@ const itemArray = [
     "name": "Gabriela Craig",
     "email": "gabrielacraig@gluid.com",
     "about": "Est qui irure tempor reprehenderit laboris fugiat pariatur minim consequat aliquip Lorem. In cillum anim reprehenderit deserunt aliqua. Eiusmod in veniam est quis ipsum pariatur nisi anim pariatur anim id fugiat deserunt cillum. Non ut eiusmod dolore esse consequat aliqua laboris id quis.\r\n"
+  },
+  {
+    "id": "5cb9562d5d17b38458ce3aea",
+    "name": "Concetta Albert",
+    "email": "concettaalbert@accel.com",
+    "about": "Nulla excepteur in enim sunt fugiat mollit tempor. In qui incididunt non voluptate Lorem aliqua magna ullamco minim. Id voluptate fugiat est nostrud exercitation cupidatat sit. Laboris eiusmod qui duis velit occaecat fugiat. Occaecat proident fugiat in in fugiat nulla. Tempor reprehenderit commodo exercitation culpa mollit duis exercitation cupidatat.\r\n"
+  },
+  {
+    "id": "5cb9562d2d6060efd005d911",
+    "name": "Maldonado Mack",
+    "email": "maldonadomack@accel.com",
+    "about": "Pariatur sunt officia dolor eu mollit veniam. Fugiat consequat veniam cillum consectetur duis nulla. Ipsum nisi ut velit mollit quis. Laborum velit enim id ipsum voluptate.\r\n"
+  },
+  {
+    "id": "5cb9562d95f54d04800804f2",
+    "name": "Short Hooper",
+    "email": "shorthooper@accel.com",
+    "about": "Exercitation elit sit adipisicing sit ex qui pariatur ea esse enim id anim aliquip magna. Ipsum dolore id amet est nisi aute tempor nisi aliquip minim ad exercitation aute sunt. Reprehenderit ut ad irure ex non reprehenderit adipisicing. Sunt laboris ex dolore magna dolore ex velit esse ullamco consequat et.\r\n"
+  },
+  {
+    "id": "5cb9562d02c4634be0871e38",
+    "name": "Kelly Franks",
+    "email": "kellyfranks@accel.com",
+    "about": "Laborum magna amet commodo commodo sunt laboris sint ut ex. Voluptate culpa incididunt et elit irure nostrud enim nostrud labore culpa laboris deserunt. Cillum ipsum irure eiusmod velit culpa incididunt cillum exercitation esse labore exercitation non tempor.\r\n"
+  },
+  {
+    "id": "5cb9562dbf8883292591bf1b",
+    "name": "Burke Sellers",
+    "email": "burkesellers@accel.com",
+    "about": "Dolor enim nulla reprehenderit sunt non ad aliquip sit. Aute esse et aliquip tempor cillum ad culpa labore sit ex. Elit ipsum do qui quis nulla cupidatat proident velit magna proident cupidatat. Deserunt exercitation cupidatat tempor anim. Officia tempor ut id culpa laboris officia nostrud ut id proident. Et esse sint commodo sint veniam adipisicing ullamco. Duis amet tempor nostrud ea amet reprehenderit aliquip.\r\n"
+  },
+  {
+    "id": "5cb9562d8d27e798019c9dc2",
+    "name": "Lessie Nixon",
+    "email": "lessienixon@accel.com",
+    "about": "Id eu laboris est ea laborum sunt ad id. Mollit culpa est pariatur ullamco cupidatat nisi tempor consequat velit dolore. Fugiat veniam do ea labore deserunt aute nisi aliqua sit pariatur ut quis quis anim. Consectetur elit incididunt enim do veniam sit. Incididunt eiusmod deserunt et laborum ex in sunt officia exercitation.\r\n"
+  },
+  {
+    "id": "5cb9562deb949d84b7315fb1",
+    "name": "Kelsey Pena",
+    "email": "kelseypena@accel.com",
+    "about": "Consequat ullamco esse ea ea aliqua ullamco. Ea in ut cupidatat deserunt laborum ullamco reprehenderit ex nisi labore velit aute ut. Dolore eu eu laboris nisi incididunt ullamco nulla proident reprehenderit in sunt excepteur sit officia. Culpa consectetur anim fugiat occaecat proident voluptate cillum et labore sunt amet proident Lorem veniam. Aliquip laboris commodo culpa exercitation consequat amet Lorem excepteur id ea deserunt velit. Nisi occaecat commodo tempor anim est duis officia anim aliqua voluptate aliqua nisi. Lorem pariatur in qui velit ut nostrud reprehenderit in nulla exercitation officia.\r\n"
+  },
+  {
+    "id": "5cb9562d10b0630e9983220c",
+    "name": "Chase Franklin",
+    "email": "chasefranklin@accel.com",
+    "about": "Irure commodo nostrud ullamco esse consequat laboris Lorem elit id voluptate mollit enim sunt. Excepteur voluptate do eu aliqua sunt voluptate magna non minim cupidatat consectetur. Qui quis ex pariatur aliqua pariatur dolore. Et ut aute laboris aliquip aliquip exercitation veniam exercitation commodo consequat ad cillum sunt. Laborum proident non tempor nulla labore sit cupidatat ex.\r\n"
+  },
+  {
+    "id": "5cb9562d33417418e48e85a9",
+    "name": "Hunter Simon",
+    "email": "huntersimon@accel.com",
+    "about": "Sunt commodo commodo nisi aliqua et consectetur voluptate. Minim dolor eu eu occaecat ex nisi eiusmod aute adipisicing quis culpa ut cillum laborum. Adipisicing veniam consequat irure amet. Est sint fugiat cupidatat ullamco velit duis ea sunt deserunt id nostrud. Enim pariatur pariatur qui anim cupidatat id laboris nostrud deserunt. Ex cupidatat voluptate est eiusmod enim ad qui occaecat eu nostrud Lorem. Officia qui eiusmod aliqua voluptate aliqua do ex irure minim.\r\n"
+  },
+  {
+    "id": "5cb9562d26c73d585e900f00",
+    "name": "Katherine Grimes",
+    "email": "katherinegrimes@accel.com",
+    "about": "Velit consectetur veniam dolor cupidatat qui aliqua. Cillum mollit quis quis veniam sit aliquip. Duis sit mollit aliqua ut aliquip dolore proident est Lorem ea et tempor ea.\r\n"
+  },
+  {
+    "id": "5cb9562d5902f9c5b9d9ca3d",
+    "name": "Jacobson Skinner",
+    "email": "jacobsonskinner@accel.com",
+    "about": "Sunt culpa nisi duis dolor ad sint proident nulla voluptate. Laboris officia enim aliqua cillum irure id labore duis ex reprehenderit aliquip nulla quis non. Anim occaecat ipsum dolor consequat ut elit ea in aute incididunt esse.\r\n"
+  },
+  {
+    "id": "5cb9562d5701a4bfaf77db3a",
+    "name": "Ramsey Shannon",
+    "email": "ramseyshannon@accel.com",
+    "about": "Fugiat ea excepteur dolore aliquip aliqua. Eu duis dolore esse commodo id elit. Est est aute quis consectetur quis anim ullamco esse elit dolore. Adipisicing anim est qui dolor labore dolor fugiat sint laborum magna pariatur.\r\n"
+  },
+  {
+    "id": "5cb9562dfb9beb1ff1348565",
+    "name": "Benson Ingram",
+    "email": "bensoningram@accel.com",
+    "about": "Irure commodo cupidatat et commodo non qui culpa nulla aliquip Lorem mollit Lorem deserunt cupidatat. Ea veniam incididunt ut ex ad ex laborum ullamco commodo elit voluptate. Ullamco ullamco laboris culpa ex nulla Lorem exercitation duis dolor eu sunt veniam tempor. Incididunt culpa esse consectetur exercitation. Id laborum incididunt ad laborum nulla culpa proident cillum excepteur nulla nostrud fugiat.\r\n"
+  },
+  {
+    "id": "5cb9562d33a1021ae742f79c",
+    "name": "Emma Rush",
+    "email": "emmarush@accel.com",
+    "about": "Et ea minim minim ex adipisicing consectetur id eu ad aliquip magna velit nostrud. Sint ut ipsum cupidatat eu incididunt ad adipisicing. Commodo velit velit officia id magna officia commodo eiusmod et veniam labore veniam nulla voluptate.\r\n"
+  },
+  {
+    "id": "5cb9562d296bb7430e91bedb",
+    "name": "Maritza Walton",
+    "email": "maritzawalton@accel.com",
+    "about": "Velit sit do commodo ad consequat in. Cupidatat occaecat deserunt aliquip proident laboris incididunt qui aliquip consequat. Aute nisi commodo magna officia aliquip dolor. Occaecat id cupidatat amet incididunt voluptate eiusmod nostrud sunt et pariatur est id ex enim. Ut id consectetur exercitation eu ad duis in dolor ea minim tempor elit quis. Adipisicing exercitation ex nostrud do id nostrud magna ex id id pariatur.\r\n"
+  },
+  {
+    "id": "5cb9562d155f1e71cbf865a5",
+    "name": "Felicia Glenn",
+    "email": "feliciaglenn@accel.com",
+    "about": "Deserunt quis consequat labore aliquip tempor esse do occaecat exercitation adipisicing quis in. Anim id laboris officia mollit pariatur id minim est labore amet irure voluptate eu. Velit veniam cupidatat dolor aliqua. Labore dolore aliquip ut amet ex sunt aliquip reprehenderit.\r\n"
+  },
+  {
+    "id": "5cb9562d4e952ebd9e3cfb3a",
+    "name": "Wolf Holmes",
+    "email": "wolfholmes@accel.com",
+    "about": "Exercitation consectetur veniam ex nulla cillum consequat dolore proident. Anim magna deserunt voluptate nulla nulla duis veniam Lorem. Nisi esse dolore dolore proident ad velit voluptate velit deserunt tempor cupidatat veniam qui.\r\n"
+  },
+  {
+    "id": "5cb9562dacbe22c9d4878c51",
+    "name": "Johanna Finch",
+    "email": "johannafinch@accel.com",
+    "about": "Cupidatat do sint minim nulla. Do sunt enim cillum deserunt minim proident commodo. Veniam amet sint consectetur nulla commodo exercitation voluptate ut labore nostrud quis. Deserunt irure dolor dolor consectetur dolor.\r\n"
+  },
+  {
+    "id": "5cb9562d4132cd5216fbef07",
+    "name": "Porter Acosta",
+    "email": "porteracosta@accel.com",
+    "about": "Mollit quis labore magna cillum. Sunt commodo cillum elit sunt officia et. Qui nulla officia id enim nisi elit anim quis enim et quis voluptate laboris velit. Tempor in esse id consectetur mollit consequat quis cupidatat fugiat commodo. Labore occaecat amet elit Lorem eu nisi veniam eu est.\r\n"
+  },
+  {
+    "id": "5cb9562d2f77a79cac04b344",
+    "name": "Ester Day",
+    "email": "esterday@accel.com",
+    "about": "Consectetur minim mollit id velit. Et ex commodo sunt adipisicing incididunt. Magna cillum eiusmod consequat culpa voluptate do velit dolore consectetur ad mollit consequat et nostrud. Qui enim deserunt reprehenderit incididunt.\r\n"
   }
 ];
 const totalItemCount = itemArray.length;
 let nameSearch;
 
 // Launches
-window.onload = function() {
+window.onload = () => {
   nameSearch = document.getElementById('searchCriteria');
   nameSearch.oninput = filterDisplayed;
   createComponents('mainContent', itemArray);
@@ -399,20 +519,19 @@ function filterDisplayed() {
   let doc = document.getElementById('mainContent');
   const search = nameSearch.value.toUpperCase();
   // If no text in search box, return default items
-  if (search === ''){
+  if (search === '') {
     doc.innerHTML = '';
     createComponents('mainContent', itemArray);
   } else {
     // Filter Array
-    const validSearches = itemArray.filter(item=> item.name.toUpperCase().includes(search));
-  
+    const validSearches = itemArray.filter(item => item.name.toUpperCase().includes(search));
     // If atleast one valid search
     if (validSearches.length !== 0 && validSearches.length !== totalItemCount) {
       doc.innerHTML = '';
       createComponents('mainContent', validSearches);
     } else {
       // If nothing is found to match, display message
-      doc.innerHTML = 'No Results to display';  
-      }
+      doc.innerHTML = 'No Results to display';
     }
   }
+}
